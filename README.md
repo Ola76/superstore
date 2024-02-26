@@ -1,7 +1,5 @@
 # Supermarket USA Dashboard
 
-![Supermarket USA](https://images.unsplash.com/photo-1582107456602-930aee1d9f28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
 **Description:**
 
 Welcome to the Supermarket USA Dashboard! This interactive Streamlit app provides comprehensive insights into sales data from supermarkets across the USA. Dive into revenue analysis, customer segmentation, shipping modes, product categories, geographical distribution, and time series trends.
